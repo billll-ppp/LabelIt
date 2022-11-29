@@ -2,6 +2,18 @@
 
 My course project for B/S Software Design @ZJU: an image annation website for machine learning collaborative tasks
 
+# Demo
+
+## Main Interface
+![image](https://user-images.githubusercontent.com/60731287/204546025-eaa7769f-7e86-4764-ba3e-7ba63dd485b6.png)
+
+## Upload & Convert
+![image](https://user-images.githubusercontent.com/60731287/204546103-cb7c675b-98f9-47f1-8510-4c4dedae602a.png)
+
+## Label Page
+![image](https://user-images.githubusercontent.com/60731287/204546238-d6c2be28-515b-4a89-a94a-d5eb0c8d3cd1.png)
+
+
 # How to run
 
 `npm run dev` for frontend.
